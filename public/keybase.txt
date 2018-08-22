@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/bestgirlgrace
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://social.illegalpornography.com
+  * I am bestgirlgrace (https://keybase.io/bestgirlgrace) on keybase.
+  * I have a public key ASBaeJlBePmc75pN5SVR1C4JMhQ8IFxlR2sJqmm6HfjM_wo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01205a78994178f99cef9a4de52551d42e0932143c205c65476b09aa69ba1df8ccff0a",
+      "host": "keybase.io",
+      "kid": "01205a78994178f99cef9a4de52551d42e0932143c205c65476b09aa69ba1df8ccff0a",
+      "uid": "132c302c816bb1594e169d53e5e91119",
+      "username": "bestgirlgrace"
+    },
+    "merkle_root": {
+      "ctime": 1534828382,
+      "hash": "a933defc258eb266840ca7e83b8a0235ce17fd39cb1df1e007efdeac041c28093d29090777aa48df1cb7b096d4da4295e4b07421f32c03231d50bd9913162ea8",
+      "hash_meta": "feb40d200f44ad7c008611c0ba7f25471055a07e796e7b7b76df7fe0dd628989",
+      "seqno": 3491132
+    },
+    "service": {
+      "entropy": "dm58PUiX8znb28/F8pmjYXlU",
+      "hostname": "social.illegalpornography.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.5.1"
+  },
+  "ctime": 1534828451,
+  "expire_in": 504576000,
+  "prev": "78c18a75a094dff600757d3831eb2bca22aa5766dea9d3320a76ee184c2bef15",
+  "seqno": 9,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgWniZQXj5nO+aTeUlUdQuCTIUPCBcZUdrCappuh34zP8Kp3BheWxvYWTESpcCCcQgeMGKdaCU3/YAdX04MesryiKqV2beqdMyCnbuGEwr7xXEID6dhLj0UIDfjGDNEz6nds7FPbbX2qLBZZuOGGWvuoLPAgHCo3NpZ8RAc608e6zWrR2p446Tp8mJJtEm3GopJK1peSOoSdSZTq4gqS+kMIIUJ2DLxvDP+gKuImbmucmoy9LMEs0jMkuCAKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEINKvXh5AyFWXHtrBmVJLdax20Jq24BZULchTIjSVaA7no3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/bestgirlgrace
+
+==================================================================
